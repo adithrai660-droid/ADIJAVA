@@ -37,6 +37,22 @@ lab4: lab4a swingexample:https://github.com/user-attachments/assets/8cdb4039-021
 lab4b button:https://github.com/user-attachments/assets/0a016396-1813-4679-a087-5dfe412ef4c8
 
 
+lab5:
+5a:jlistexample:https://github.com/user-attachments/assets/2c641842-1808-495d-8265-585c33beb731
+
+5b:tabbedpanexample:https://github.com/user-attachments/assets/d26f8a4e-5152-4c01-aaa8-905a9f89591e
+
+5c:https://github.com/user-attachments/assets/0d067f49-b7f6-42cc-a6c1-6d8d5033140a
+
+5d:https://github.com/user-attachments/assets/16266e82-a424-4c63-873a-55c889d7260a
+
+
+
+
+
+
+
+
 
  
 
