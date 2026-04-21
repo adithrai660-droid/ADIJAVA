@@ -24,6 +24,12 @@ p5:https://github.com/user-attachments/assets/aca23514-b886-41b4-b539-5a7af66598
 
  p10 :https://github.com/user-attachments/assets/a8ee5754-0860-4f16-93a9-f304adb835e9
 
+ lab2:
+ mapinterface:https://github.com/user-attachments/assets/5cc44ff3-3a4e-4a53-b756-d6f92426c853
+ stringperformance:https://github.com/user-attachments/assets/abc11063-55c1-4545-aef0-7eb2e1f24941
+
+
+
 
 
 
