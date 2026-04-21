@@ -31,6 +31,16 @@ p5:https://github.com/user-attachments/assets/aca23514-b886-41b4-b539-5a7af66598
  lab3:
 lab3a: https://github.com/user-attachments/assets/a4891ad4-ef3a-4857-831a-650b11ba1fa2
 
+lab3b:https://github.com/user-attachments/assets/66a9e760-ebb8-42c3-abe7-c72b1ea87746
+
+
+
+
+lab3c: https://github.com/user-attachments/assets/32deec48-56f2-43a4-94a5-01e65061f8ea
+
+
+
+
 
 lab4: lab4a swingexample:https://github.com/user-attachments/assets/8cdb4039-0210-4998-86ed-bd52f5dfb495
 
